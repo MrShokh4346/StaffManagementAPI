@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\viewmodels\\homecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\viewmodels\\homecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\viewmodels\\homeupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\viewmodels\\homeupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagementapi\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05675F01-0E9A-454D-ACBC-01A82EEDD94B}|StaffManagementAPI\\StaffManagementAPI.csproj|solutionrelative:staffmanagementapi\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA3510C-2E8D-486F-81DC-BA3F8777C003}|StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj|c:\\users\\users\\source\\repos\\staffmanagementapi\\staffmanagement.dataaccess\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA3510C-2E8D-486F-81DC-BA3F8777C003}|StaffManagement.DataAccess\\StaffManagement.DataAccess.csproj|solutionrelative:staffmanagement.dataaccess\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "StaffManagementAPI\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T13:36:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\ViewModels\\HomeUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\ViewModels\\HomeUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\ViewModels\\HomeUpdateViewModel.cs",
+              "RelativeToolTip": "StaffManagementAPI\\ViewModels\\HomeUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:22:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "StaffManagementAPI\\Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T13:19:33.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "StaffManagementAPI\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-31T08:55:11.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagement.DataAccess\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "StaffManagement.DataAccess\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagement.DataAccess\\Models\\Staff.cs",
+              "RelativeToolTip": "StaffManagement.DataAccess\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:21:47.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StaffManagementAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:26:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\Program.cs*",
+              "RelativeToolTip": "StaffManagementAPI\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:28:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\ViewModels\\HomeCreateViewModel.cs",
+              "RelativeDocumentMoniker": "StaffManagementAPI\\ViewModels\\HomeCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Users\\source\\repos\\StaffManagementAPI\\StaffManagementAPI\\ViewModels\\HomeCreateViewModel.cs",
+              "RelativeToolTip": "StaffManagementAPI\\ViewModels\\HomeCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:00:28.427Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
